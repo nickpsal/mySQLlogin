@@ -1,0 +1,2 @@
+﻿INSERT INTO USERS
+(id, onoma,eponimo,username,PASSWORD, email, blocked) VALUES (DEFAULT, 'NIKOS', 'PSALTAKIS', 'nickpsal' , 'bc9dd133b3bb3399b72800edc1afb04ba9710088e3f3b1a750d2a3164cbf74e9', 'nickpsal@gmail.com', '0'); 
